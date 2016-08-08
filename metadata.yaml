@@ -1,0 +1,26 @@
+_repo: Den-engelske-Lods_12844
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wergeland, Henrik Arnold
+    alias: Sifadda, Siful
+    birthdate: 1808
+    deathdate: 1845
+    gutenberg_agent_id: '3926'
+    url: http://www.gutenberg.org/2009/agents/3926
+    wikipedia: http://en.wikipedia.org/wiki/Henrik_Wergeland
+description: ''
+gutenberg_issued: '2004-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12844'
+language: 'no'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Norwegian poetry -- 19th century'
+- GITenberg
+title: Den engelske Lods
+url: http://www.gutenberg.org/ebooks/12844
